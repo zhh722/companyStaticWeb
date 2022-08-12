@@ -15,5 +15,10 @@ npm run serve
 npm run build
 ```
 
+### Demo
+```
+http://120.48.136.206/
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
